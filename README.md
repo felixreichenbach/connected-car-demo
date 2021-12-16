@@ -51,10 +51,10 @@ Once installed, Open QT and select Projects then Open
 
 Then in the previously cloned github repository select examples/remotecontrolledcar/remotecontrolledcar.pro. Then select computer icon at the bottom left
 
-<img src="doc/images/run.png" alt="drawing" width="1000"/>
+<img src="doc/images/select_computer.png" alt="drawing" width="1000"/>
 
 and click on the green triangle to start the car app
 
-<img src="doc/images/select_computer.png" alt="drawing" width="1000"/>
+<img src="doc/images/run.png" alt="drawing" width="1000"/>
 
 Do the same with controller to start the controller app
